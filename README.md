@@ -12,6 +12,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
+## 📂 Live Projects
+- ELTNI Jewelry — [https://eltni.com](https://eltni.com)
+- NewsFlash — [https://mdkawserishtiak.github.io/NewsFlash](https://mdkawserishtiak.github.io/NewsFlash)
+- The Tribute Page — [https://mdkawserishtiak.github.io/the-tribute-page](https://mdkawserishtiak.github.io/the-tribute-page)
+
 ## 📌 About Me
 - 👋 I’m currently looking for Web Developer jobs
 - 🌱 I’m currently learning Advanced JavaScript and React
