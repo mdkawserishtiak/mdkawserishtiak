@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md%20Kawser%20Ishtiak%20Julas&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md%20Kawser%20Ishtiak%20Julas&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Pera%20Nai%20Chill" alt="Typing introduction" />
@@ -13,14 +13,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
 ## 📂 Live Projects
-- ELTNI Jewelry — [https://eltni.com](https://eltni.com)
 - NewsFlash — [https://mdkawserishtiak.github.io/NewsFlash](https://mdkawserishtiak.github.io/NewsFlash)
 - The Tribute Page — [https://mdkawserishtiak.github.io/the-tribute-page](https://mdkawserishtiak.github.io/the-tribute-page)
 
 ## 📌 About Me
 - 👋 I’m currently looking for Web Developer jobs
 - 🌱 I’m currently learning Advanced JavaScript and React
-- 🤝 I’m looking to collaborate on GitHub projects as a Junior Web Developer or Programmer
+- 🤝 I’m looking to collaborate on GitHub projects as a Web Developer or Programmer
 
 
 ## 🧠 My Focus Areas
